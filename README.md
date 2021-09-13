@@ -1,5 +1,7 @@
 # Brigade Kind Node Image
 
+![build](https://badgr.brigade2.io/v1/github/checks/brigadecore/kind-node/badge.svg?appID=99005)
+
 This project provides a custom [kind](https://kind.sigs.k8s.io/) node image that
 supports the use of networked file systems. kind does not include this
 out-of-the-box, so the Brigade team has created this custom image to facilitate
