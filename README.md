@@ -1,6 +1,7 @@
 # Brigade Kind Node Image
 
 ![build](https://badgr.brigade2.io/v1/github/checks/brigadecore/kind-node/badge.svg?appID=99005)
+[![slack](https://img.shields.io/badge/slack-brigade-brightgreen.svg?logo=slack)](https://kubernetes.slack.com/messages/C87MF1RFD)
 
 This project provides a custom [kind](https://kind.sigs.k8s.io/) node image that
 supports the use of networked file systems. kind does not include this
